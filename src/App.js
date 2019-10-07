@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Edit <code>src/App.js</code> and save.
+          Edit <code>src/App.js</code> and save them.
         </p>
         <a
           className="App-link"
@@ -13,7 +13,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React is cool
         </a>
       </header>
     </div>
